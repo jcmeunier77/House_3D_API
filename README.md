@@ -1,6 +1,6 @@
 # House_3D_API
 
-## Purpose and project objectives 
+## 1. Purpose and project objectives 
 
 ### Purpose
 - [x] To model a house in 3D from lidar satellite images (geoTIFFs file) by only entering a home address
@@ -21,7 +21,7 @@ Put yourself in the shoes of a company, active in the Geospatial industy and who
 
 What is LIDAR ? LIDAR stands for Light Detection and Ranging and is a remote sensing method used to examine the surface of the Earth. LIDAR is a remote sensing method that uses light in the form of a pulsed laser to measure ranges (variable distances) to the Earth. The device will illuminate a target with a laser light and a sensor will measure the reflection. Differences in wavelength and return times will be used to get 3D representations of an area.
 
-## Features 
+## 2. Features 
 ### Must-have 
 - [x] 3D lookup of houses
 
@@ -30,8 +30,8 @@ What is LIDAR ? LIDAR stands for Light Detection and Ranging and is a remote sen
 - [x] Better visualization
 - [x] 3D Belgium's monuments i.e church, etc.
 
-## The project 
-### Working plan and steps 
+## 3. The project 
+### a. Working plan and steps 
 #### 1. Research 
 - [x] Research and understand the term, concept and requirement of the project.
 - [x] Discover new libraries that can serve the project purposes 
@@ -87,30 +87,31 @@ see, [notebooks with single commands and functions](https://github.com/jcmeunier
   - 'Locate building on map' : opens folium .html map in new window  
   - 'View 3D reconstruction' : opens the open3D object in a separate object 
    
-### 6. Wrapping up things 
+#### 6. Wrapping up things 
 - [x] Linking the .html interface with the API with some javascript code 
   - by clicking on the interface buttons the interface communicates with the API for lauching the desired commands 
 - [x] Linking each blocks of the project and ensuring an efficient communication between them 
 
-### Project structure and process flow
+### b. Project structure and process flow
 
 to incorporate : flowshart with process flow 
 
-### Projet output 
+### c. Projet output 
 #### Screenshot of the .html interface 
+
 
 #### Screenshot of the folium map 
 
 
 #### Screenshot of the 3D reconstruction 
 
-### Pending 
+### d. Pending 
 
-- [] To host the data on an online server.
-- [] To develop web application allowing client to type in any address in Belgium to view 3D houses.
-- [] To obtain latest LIDAR images so that new houses after 2014 can be rendered.
-- [] To incorporate cadastral plan of each property in the 3D rendering so that only the requested house is rendered.
-- [] To explore other 3D plotting libraries
+- [x] To host the data on an online server.
+- [x] To develop web application allowing client to type in any address in Belgium to view 3D houses.
+- [x] To obtain latest LIDAR images so that new houses after 2014 can be rendered.
+- [x] To incorporate cadastral plan of each property in the 3D rendering so that only the requested house is rendered.
+- [x] To explore other 3D plotting libraries
 
 
 
