@@ -75,20 +75,20 @@ see, [notebooks with single commands and functions](https://github.com/jcmeunier
     - [d_target_to_map.py](https://github.com/jcmeunier77/House_3D_API/blob/master/api/src/utils/d_target_to_map.py) : save afolium map as .html file from CRS coordinates
  - [x] Constructing a 'meta' object for dispatching commands to base objects
  - [x] Designing a Flask API for linking an .html interface to project objects 
-  - with 2 routes : one for opening the address form (see next section) and one for render folium map .html template
-  - rem: the 3d visualization being open as a separate open3D object  
+    - with 2 routes : one for opening the address form (see next section) and one for render folium map .html template
+    - rem: the 3d visualization being open as a separate open3D object  
  
  #### 5. Designing user friendly interface with form and buttons 
  - [x] Using CSS/HTML and adapted from available [bootstrap](https://v5.getbootstrap.com/) templates and codes  
  - [x] Form :
-  - for encoding address
+    - for encoding address
  - [x] Buttons :
-  - 'Locate building on map' : opens folium .html map in new window  
-  - 'View 3D reconstruction' : opens the open3D object in a separate object 
+    - 'Locate building on map' : opens folium .html map in new window  
+    - 'View 3D reconstruction' : opens the open3D object in a separate object 
    
 #### 6. Wrapping up things 
 - [x] Linking the .html interface with the API with some javascript code 
-  - by clicking on the interface buttons the interface communicates with the API for lauching the desired commands 
+    - by clicking on the interface buttons the interface communicates with the API for lauching the desired commands 
 - [x] Linking each blocks of the project and ensuring an efficient communication between them 
 
 ### Project structure and process flow
@@ -121,8 +121,4 @@ to incorporate : flowshart with process flow
 - [x] To incorporate cadastral plan of each property in the 3D rendering so that only the requested house is rendered.
 - [x] To explore other 3D plotting libraries
 
-
-
-
-  
   
