@@ -97,7 +97,7 @@ to incorporate : flowshart with process flow
 
 ### Projet output 
 #### Screenshot of the .html interface 
-![alt text] (https://drive.google.com/file/d/1iiWBURTvsqpn15XFLSMg98EYCrKYv21C/view?usp=sharing)
+![img] (https://drive.google.com/file/d/1iiWBURTvsqpn15XFLSMg98EYCrKYv21C/view?usp=sharing)
 <img src="https://drive.google.com/file/d/1iiWBURTvsqpn15XFLSMg98EYCrKYv21C/view?usp=sharing">
 #### Screenshot of the folium map 
 
