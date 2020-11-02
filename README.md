@@ -95,7 +95,7 @@ see, [notebooks with single commands and functions](https://github.com/jcmeunier
 
 to incorporate : flowshart with process flow 
 
-### Projet output 
+### Project output 
 #### Screenshot of the .html interface 
 
 <p align="center">
