@@ -69,10 +69,10 @@ see, [notebooks with single commands and functions](https://github.com/jcmeunier
 
 #### 4. Python object-oriented programming
 - [x] Deploying each single procedural commands into four coherent and consistent objects : 
-  - [a_addres_to_crs.py](https://github.com/jcmeunier77/House_3D_API/blob/master/api/src/utils/a_addres_to_crs.py) : returns CRS coordinates from input address
-  - [b_crs_to_tif.py](https://github.com/jcmeunier77/House_3D_API/blob/master/api/src/utils/b_crs_to_tif.py) : uses encoded CRS coordinate to locate the right .tif or .shp file
-  - [c_file_to_pix.py](https://github.com/jcmeunier77/House_3D_API/blob/master/api/src/utils/c_file_to_pix.py) : return 3D visualization from cropped .tif files
-  - [d_target_to_map.py](https://github.com/jcmeunier77/House_3D_API/blob/master/api/src/utils/d_target_to_map.py) : save afolium map as .html file from CRS coordinates
+    - [a_addres_to_crs.py](https://github.com/jcmeunier77/House_3D_API/blob/master/api/src/utils/a_addres_to_crs.py) : returns CRS coordinates from input address
+    - [b_crs_to_tif.py](https://github.com/jcmeunier77/House_3D_API/blob/master/api/src/utils/b_crs_to_tif.py) : uses encoded CRS coordinate to locate the right .tif or .shp file
+    - [c_file_to_pix.py](https://github.com/jcmeunier77/House_3D_API/blob/master/api/src/utils/c_file_to_pix.py) : return 3D visualization from cropped .tif files
+    - [d_target_to_map.py](https://github.com/jcmeunier77/House_3D_API/blob/master/api/src/utils/d_target_to_map.py) : save afolium map as .html file from CRS coordinates
  - [x] Constructing a 'meta' object for dispatching commands to base objects
  - [x] Designing a Flask API for linking an .html interface to project objects 
   - with 2 routes : one for opening the address form (see next section) and one for render folium map .html template
