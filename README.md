@@ -101,7 +101,9 @@ to incorporate : flowshart with process flow
 <img src="https://drive.google.com/file/d/1iiWBURTvsqpn15XFLSMg98EYCrKYv21C/view?usp=sharing">
 #### Screenshot of the folium map 
 
-
+<p align="center">
+    <img src="https://github.com/jcmeunier77/House_3D_API/blob/master/screenshots/map%20output.png">
+</p>
 #### Screenshot of the 3D reconstruction 
 
 ### Pending 
