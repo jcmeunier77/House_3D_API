@@ -109,7 +109,6 @@ to incorporate : flowshart with process flow
 </p>
 
 #### Screenshot of the 3D reconstruction 
-
 <p align="center">
     <img src="https://github.com/jcmeunier77/House_3D_API/blob/master/screenshots/3d%20output.png">
 </p>
