@@ -79,7 +79,7 @@ see, [notebooks with single commands and functions](https://github.com/jcmeunier
     - rem: the 3d visualization being open as a separate open3D object  
  
  #### 5. Designing user friendly interface with form and buttons 
- - [x] Using CSS/HTML and adapted from available [bootstrap](https://v5.getbootstrap.com/) templates and codes  
+ - [x] Using CSS/HTML adapted from available [bootstrap](https://v5.getbootstrap.com/) templates and codes  
  - [x] Form :
     - for encoding address
  - [x] Buttons :
