@@ -1,8 +1,11 @@
 # House_3D_API
 
-## Purpose and project objective 
+## Purpose and project objectives 
 
+### Purpose
 - [x] To model a house in 3D from lidar satellite images (geoTIFFs file) by only entering a home address
+
+### Objectives
 - [x] Consolidate the knowledge in Python, specifically in : NumPy, Pandas, Matplotlib
 - [x] To be able to search and implement new librairies
 - [x] To be able to read and use shapefiles
@@ -20,11 +23,9 @@ What is LIDAR ? LIDAR stands for Light Detection and Ranging and is a remote sen
 
 ## Features 
 ### Must-have 
-
 - [x] 3D lookup of houses
 
 ### Nice-to-Have
-
 - [x] Optimize your solution to have the result as fast as possible.
 - [x] Better visualization
 - [x] 3D Belgium's monuments i.e church, etc.
@@ -67,9 +68,8 @@ What is LIDAR ? LIDAR stands for Light Detection and Ranging and is a remote sen
 
 see, [notebooks with single commands and functions](https://github.com/jcmeunier77/House_3D_API/tree/master/notebooks%20with%20single%20commands%20and%20functions), for further details 
 
-#### 4. Python object-oriented programming 
+#### 4. Python object-oriented programming
 - [x] deploying each single procedural commands into four coherent and consistent objects : 
-  - 
 
 
 
