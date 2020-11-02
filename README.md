@@ -50,9 +50,9 @@ What is LIDAR ? LIDAR stands for Light Detection and Ranging and is a remote sen
   - gdal - translator library for raster and vector geospatial data formats
 
 #### 2. Data collection 
-- [x] DTM file for Flandre including Brussels: http://bit.ly/DTM_Flandre
-- [x] DSM file for Flandre including Brussels: http://bit.ly/DSM_Flandre
-- [x] Shapefiles with cadastral maps and parcels: https://eservices.minfin.fgov.be/myminfin-web/pages/cadastral-plans?_ga=2.167466685.225309318.1604313780-388788923.1602907232
+- [x] [DTM file for Flandre including Brussels](http://bit.ly/DTM_Flandre)
+- [x] [DSM file for Flandre including Brussels](http://bit.ly/DSM_Flandre)
+- [x] [Shapefiles with cadastral maps and parcels](https://eservices.minfin.fgov.be/myminfin-web/pages/cadastral-plans?_ga=2.167466685.225309318.1604313780-388788923.1602907232)
 
 #### 3. Python procedural programming 
 - [x] Programming python command and function for each step of the process flow, i.a.:
