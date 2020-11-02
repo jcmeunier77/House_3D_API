@@ -5,6 +5,11 @@
 ### Purpose
 - [x] To model a house in 3D from lidar satellite images (geoTIFFs file) by only entering a home address
 
+### Pitch of the project 
+Put yourself in the shoes of a company, active in the Geospatial industy and whose purpose is to use lidar satellite image data to launch a new branch in the insurrance business. With this respect, the company needs you to build a solution with these data to model buildings in 3D with by only entering a home address.
+
+What is LIDAR ? LIDAR stands for Light Detection and Ranging and is a remote sensing method used to examine the surface of the Earth. LIDAR is a remote sensing method that uses light in the form of a pulsed laser to measure ranges (variable distances) to the Earth. The device will illuminate a target with a laser light and a sensor will measure the reflection. Differences in wavelength and return times will be used to get 3D representations of an area.
+
 ### Objectives
 - [x] Consolidate the knowledge in Python, specifically in : NumPy, Pandas, Matplotlib
 - [x] To be able to search and implement new librairies
@@ -15,23 +20,17 @@
 - [x] To be able to implement the whole project - and make it functioning -  through an API
 - [x] To be able to present a final product
 
-## Pitch of the project 
-
-Put yourself in the shoes of a company, active in the Geospatial industy and whose purpose is to use lidar satellite image data to launch a new branch in the insurrance business. With this respect, the company needs you to build a solution with these data to model buildings in 3D with by only entering a home address.
-
-What is LIDAR ? LIDAR stands for Light Detection and Ranging and is a remote sensing method used to examine the surface of the Earth. LIDAR is a remote sensing method that uses light in the form of a pulsed laser to measure ranges (variable distances) to the Earth. The device will illuminate a target with a laser light and a sensor will measure the reflection. Differences in wavelength and return times will be used to get 3D representations of an area.
-
-## 2. Features 
-### Must-have 
+### Features 
+#### Must-have 
 - [x] 3D lookup of houses
 
-### Nice-to-Have
+#### Nice-to-Have
 - [x] Optimize your solution to have the result as fast as possible.
 - [x] Better visualization
 - [x] 3D Belgium's monuments i.e church, etc.
 
-## 3. The project 
-### a. Working plan and steps 
+## 2. The project 
+### Working plan and steps 
 #### 1. Research 
 - [x] Research and understand the term, concept and requirement of the project.
 - [x] Discover new libraries that can serve the project purposes 
@@ -92,11 +91,11 @@ see, [notebooks with single commands and functions](https://github.com/jcmeunier
   - by clicking on the interface buttons the interface communicates with the API for lauching the desired commands 
 - [x] Linking each blocks of the project and ensuring an efficient communication between them 
 
-### b. Project structure and process flow
+### Project structure and process flow
 
 to incorporate : flowshart with process flow 
 
-### c. Projet output 
+### Projet output 
 #### Screenshot of the .html interface 
 
 
@@ -105,7 +104,7 @@ to incorporate : flowshart with process flow
 
 #### Screenshot of the 3D reconstruction 
 
-### d. Pending 
+### Pending 
 
 - [x] To host the data on an online server.
 - [x] To develop web application allowing client to type in any address in Belgium to view 3D houses.
