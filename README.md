@@ -65,7 +65,7 @@ What is LIDAR ? LIDAR stands for Light Detection and Ranging and is a remote sen
 
 - [x] Testing and fine-tuning code for improving readability, effacy and/or execution speed
 
-see, [notebooks with single commands and functions](https://github.com/jcmeunier77/House_3D_API/tree/master/notebooks%20with%20single%20commands%20and%20functions), for further details 
+see [notebooks with single commands and functions](https://github.com/jcmeunier77/House_3D_API/tree/master/notebooks%20with%20single%20commands%20and%20functions), for further details 
 
 #### 4. Python object-oriented programming
 - [x] Deploying each single procedural commands into four coherent and consistent objects : 
